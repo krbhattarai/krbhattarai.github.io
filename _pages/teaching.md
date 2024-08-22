@@ -17,13 +17,13 @@ nav_order: 6
 
 ##### Teaching Assistant:
 
-- **MBA 611: Financial Analysis** (Fall 2023)
-- **FIN 338: Intermediate Financial Management** (Fall 2022, Spring 2023)
-- **FIN 441: Commercial Insurance** (Fall 2022, Spring 2023)
-- **FIN 341: Risk Management and Insurance** (Fall 2022, Spring 2023)
-- **FIN 461: Financial Statement Analysis** (Fall 2020/21, Spring 2021/22)
-- **FIN 542: Enterprise Risk Management** (Fall 2019, SP 2020)
-- **FIN 533: Portfolio Management** (Fall 2019, Spring 2020)
+- MBA 611: Financial Analysis (Fall 2023)
+- FIN 338: Intermediate Financial Management (Fall 2022, Spring 2023)
+- FIN 441: Commercial Insurance (Fall 2022, Spring 2023)
+- FIN 341: Risk Management and Insurance (Fall 2022, Spring 2023)
+- FIN 461: Financial Statement Analysis (Fall 2020/21, Spring 2021/22)
+- FIN 542: Enterprise Risk Management (Fall 2019, SP 2020)
+- FIN 533: Portfolio Management (Fall 2019, Spring 2020)
 
 <span style="font-size: 16px; font-weight: 500;">
  <a href="https://drive.google.com/file/d/1CWWXD6zJnKqnXCLeCtOjdkBTq5cajCI8/view" target="_blank">Click here</a> to see a summary of recent teaching evaluations.
