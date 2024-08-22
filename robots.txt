@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://krbhattarai.com/sitemap.xml
+Sitemap: http://krbhattarai.com/sitemap.xml
