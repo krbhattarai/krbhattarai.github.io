@@ -1,26 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Keshav R. Bhattarai",
+    "email": "kbhattarai@bus.olemiss.edu",
+    "phone": "(601) 310-6303",
+    "url": "https://www.krbhattarai.com/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "131A Holman Hall, University",
+      "postalCode": "38677",
+      "city": "Oxford",
       "countryCode": "US",
-      "region": "California"
+      "region": "MS"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
