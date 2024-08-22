@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 131A Holman Hall, University, MS, 38677
 
 profile:
   align: right
@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Keshav Bhattarai, and I am a PhD Candidate in Finance at the University of Mississippi. My research delves into crucial areas such as corporate culture, product market competition, corporate tax, and mergers and acquisitions. My current research explores a variety of topics, including the influence of corporate culture on market outcomes, the dynamics of debt and non-debt tax shields under the Tax Cuts and Jobs Act, and corporate culture and managerial discretion, product market competition, and the intricates of odd-lots trades. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have presented my work at the Southern Finance Association and am scheduled to present at the Financial Management Association in 2024. Additionally, I also have valuable teaching experience, leading both basic and upper-level finance courses at the University of Mississippi, as well as teaching at NIST College and Kathmandu Barsha College in Kathmandu, Nepal.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond academia, I worked as an accountant at a manufacturing company in Nepal. 
+You can reach me at kbhattarai@bus.olemiss.edu. 
