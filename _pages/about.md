@@ -25,3 +25,5 @@ I have presented my work at the Southern Finance Association and am scheduled to
 
 Beyond academia, I worked as an accountant at a manufacturing company in Nepal.
 You can reach me at <kbhattarai@bus.olemiss.edu>.
+
+<span style="color:red">I'm currently on the job market. Feel free to reach out directly if you think I could be a good fit!</span>
