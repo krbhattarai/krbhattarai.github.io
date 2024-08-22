@@ -5,5 +5,9 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"JBF": 
+  url: https://www.sciencedirect.com/journal/journal-of-banking-and-finance
+  color: '#227BBF'
+
 "Vision":
   color: "#009f36"
