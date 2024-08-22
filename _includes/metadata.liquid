@@ -212,6 +212,10 @@
     {% capture link %}https://discord.com/users/{{ site.discord_id }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
+  {% if site.ssrn_id %}
+  {% capture link %}https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id={{ site.ssrn_id }}{% endcapture %}
+  {% assign sameaslinks = sameaslinks | push: link %}
+{% endif %}
   {% if site.zotero_username %}
     {% capture link %}https://www.zotero.org/{{ site.zotero_username }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
