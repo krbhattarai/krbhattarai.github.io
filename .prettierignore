@@ -12,3 +12,4 @@ _sass/font-awesome/*.scss
 _pages/*
 _data/*
 _includes/*
+_config.yml
