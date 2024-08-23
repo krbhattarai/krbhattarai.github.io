@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-<p>My teaching philosophy is to focus on sparking curiosity in students and know them. I believe that genuine interest in the subject drives engagement and motivation, helping students grasp fundamental concepts and tackle complex ideas more effectively. By knowing my students, I can more effectively address their individual challenges and support their learning journey.  I aim to create an environment where my enthusiasm for the subject is clear, and I encourage students to think critically, relate their education to real-life situations, and develop independent thinking skills.</p>
+<p>My teaching philosophy is simple: curiosity drives learning. I believe that when students are genuinely interested in a subject, they become more engaged, motivated, and better equipped to grasp complex ideas. Moreover, I strive to understand and know my students as individuals. By doing so, I can more effectively address their unique challenges and support them in their learning journey. My goal is to create an environment that encourages students to think critically, connect their education to real-life situations, and develop independent thinking skills.</p>
 
 ##### Instructor of Record:
 
