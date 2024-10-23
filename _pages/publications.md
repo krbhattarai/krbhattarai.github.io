@@ -24,5 +24,6 @@ nav_order: 2
 - Fiscal Federalism in Nepal and Fiscal Performance (with Kumar Bhattarai)
 
 #### Conference Discussions:
+- 2024 Financial Management Association, Discussion of "Stock Splits are Not Dead: Implications of Reappearing Stock Splits" By Y. Peter Chung, Fan Li, and Yun Liu
 - 2023 Financial Management Association, Discussion of "A dynamic trade-off theory with corporate and personal taxes" By Jingxiong (Tony) Hu
 - 2023 Southern Finance Association, Discussion of “CEO Inside Debt and the Divestiture Decision” By Duong Pham, Aigbe Akhigbe, Eric Brisker, and Ann Marie Whyte
