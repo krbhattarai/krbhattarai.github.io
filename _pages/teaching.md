@@ -11,7 +11,7 @@ nav_order: 6
 ##### Instructor of Record:
 
 - **FIN 461: Financial Statement Analysis** (Spring 2025 (scheduled))
-- - **FIN 468: International Financial Management** (Fall 2023, Spring 2024)  
+- **FIN 468: International Financial Management** (Fall 2023, Spring 2024)  
   <a href="/assets/pdf/FIN_468_Spring_2024_Syllabus.pdf" target="_blank">Course Syllabus</a>
 - **FIN 331: Business Finance I** (Summer 2022, Fall 2022, Summer 2024, Spring 2025 (scheduled))  
   <a href="/assets/pdf/FIN_331_Summer2024_Syllabus.pdf" target="_blank">Course Syllabus</a>
